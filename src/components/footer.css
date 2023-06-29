@@ -1,0 +1,10 @@
+.Footer{
+    background-color: rgba(0, 0, 0, 0.873);
+    color: rgba(255, 255, 255, 0.848);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.Footer>div>div>div>ul>li>a,.Footer>div>div>div>h5>a{
+    text-decoration: none;
+    color: white;
+}

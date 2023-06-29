@@ -1,0 +1,49 @@
+img{
+    width: 30%;
+}
+#searchbar{
+    width: 18rem !important;
+    border-radius: 0 0 0 12px;
+    border: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#searchbtn{
+    margin-left: 0;
+    border: none !important;
+    background-color: rgb(235, 211, 55);
+    border-radius: 0 12px 0 0;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#searchbtn:hover{
+    background-color: rgb(192, 173, 48);
+}
+#searchbtn:active{
+    border: none !important;
+}
+#log{
+    background-color: rgb(235, 211, 55);
+}
+#log:hover{
+    background-color: rgb(192, 173, 48);
+}
+#cart{
+    color: rgb(235, 211, 55);
+    font-size: 1.5em;
+}
+.custom-toggler {
+    border: none; /* Remove border */
+    outline: none; /* Remove outline */
+    padding: 0; /* Remove padding */
+    background-color: transparent; /* Set background to transparent */
+    position: absolute; /* Position absolutely */
+    top: 0.4em; /* Align to the top */
+    right: 0; /* Align to the right */
+    cursor: pointer; /* Add cursor pointer */
+}
+
+.custom-nav{
+    background-color: rgba(235, 235, 235, 0.7);
+}
+
+  
