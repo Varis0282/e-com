@@ -11,13 +11,13 @@ function Footer() {
 
                         <ul class="list-unstyled mb-0">
                             <li>
-                                <a href="all_products.html" class="text-white">Dresses</a>
+                                <a href="" class="text-white">Dresses</a>
                             </li>
                             <li>
-                                <a href="all_products.html" class="text-white">Pants</a>
+                                <a href="" class="text-white">Pants</a>
                             </li>
                             <li>
-                                <a href="all_products.html" class="text-white">Skirts</a>
+                                <a href="" class="text-white">Skirts</a>
                             </li>
                         </ul>
                     </div>
@@ -26,13 +26,13 @@ function Footer() {
 
                         <ul class="list-unstyled mb-0">
                             <li>
-                                <a href="all_products.html" class="text-white">Shirts</a>
+                                <a href="" class="text-white">Shirts</a>
                             </li>
                             <li>
-                                <a href="all_products.html" class="text-white">Pants</a>
+                                <a href="" class="text-white">Pants</a>
                             </li>
                             <li>
-                                <a href="all_products.html" class="text-white">Hoodies</a>
+                                <a href="" class="text-white">Hoodies</a>
                             </li>
                         </ul>
                     </div>
@@ -44,13 +44,13 @@ function Footer() {
 
                         <ul class="list-unstyled mb-0">
                             <li>
-                                <a href="index.html" class="text-white">Home</a>
+                                <a href="" class="text-white">Home</a>
                             </li>
                             <li>
-                                <a href="login.html" class="text-white">Login</a>
+                                <a href="" class="text-white">Login</a>
                             </li>
                             <li>
-                                <a href="contact_us.html" class="text-white">Contact</a>
+                                <a href="" class="text-white">Contact</a>
                             </li>
                         </ul>
                     </div>
